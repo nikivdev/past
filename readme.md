@@ -1,6 +1,6 @@
 # Past
 
-> Archive of code/things (sorted by month)
+> Archive of things
 
 Folders are organized by `year-month`. Repos that have useful git histories are archived in [GitHub org](https://github.com/past-nikiv).
 
